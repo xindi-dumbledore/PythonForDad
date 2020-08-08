@@ -1,4 +1,4 @@
 # PythonForDad
 
-练习：Exercises
-书：Books
+- 练习：Exercises
+- 书：Books
